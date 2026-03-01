@@ -1,0 +1,13 @@
+# Airflow logs
+airflow_project/logs/
+logs/
+
+# Airflow DB
+airflow.db
+
+# Snowflake secrets
+dags/utils/config/snowflake_config.yml
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,1 @@
+{"_invocation_id": "a929f74b-fc13-4776-8556-e40a28d4c301", "linked": {"0": {"name": "model.dbt_ecommerce.stg_customers", "type": "model", "succ": [3]}, "1": {"name": "model.dbt_ecommerce.stg_orders", "type": "model", "succ": [3]}, "2": {"name": "model.dbt_ecommerce.stg_shipments", "type": "model", "succ": [3]}, "3": {"name": "model.dbt_ecommerce.orders_status", "type": "model"}}}
